@@ -51,3 +51,29 @@ Aqui estão os recursos da biblioteca EasyUtils:
 | `TonsToKilograms()`           | <span style="color:blue">`double`</span> tons       | Converte o peso de toneladas para quilogramas.         |
 | `KilogramsToTons()`           | <span style="color:blue">`double`</span> kilograms  | Converte o peso de quilogramas para toneladas.         |
 
+⚠️ Lembre-se, durante o desenvolvimento do seu software, de seguir a ordem dos parâmetros especificada pela biblioteca para garantir o funcionamento adequado.
+
+## 🔧 Como Usar
+
+A biblioteca EasyUnits está disponível para a linguagem ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) .
+
+
+Para usar a biblioteca EasyUnits em seus projetos Java, siga estas etapas:
+
+1. Faça o download do arquivo EasyUnits.JAR
+2. Adicione a biblioteca ao seu projeto seguindo as instruções do seu IDE.
+3. Importe a classe 'EasyUnits' no seu código:
+
+   ~~~~java
+   import easyunits.EasyUnits;
+   ~~~~
+5. Utilize os métodos fornecidos para converter temperaturas, distâncias, massas, volumes e medidas de tempo.
+
+## </> Tecnologias Utilizadas
+
+![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+## 💻 Autor
+
+👤 Desenvolvido por: João Felipe  
+📅 Ano de Desenvolvimento: 2024
