@@ -8,9 +8,9 @@ Aqui estão os recursos da biblioteca EasyUtils:
 
 | Função       | Ordem dos Parâmetros                                  | Descrição                      |
 |-------------------------------|------------------------------------------------------|-------------------------------------------------|
-| `CelsiusToFahrenheit`         | 1. <span style="color:blue">`double`</span> `celsius` | Converte a temperatura de Celsius para Fahrenheit. |
-| `FahrenheitToCelsius`         | 1. <span style="color:blue">`double`</span> `fahrenheit` | Converte a temperatura de Fahrenheit para Celsius. |
-| `CelsiusToKelvin`             | 1. <span style="color:blue">`double`</span> `celsius` | Converte a temperatura de Celsius para Kelvin.   |
-| `KelvinToCelsius`             | 1. <span style="color:blue">`double`</span> `kelvin`  | Converte a temperatura de Kelvin para Celsius.   |
-| `FahrenheitToKelvin`          | 1. <span style="color:blue">`double`</span> `fahrenheit` | Converte a temperatura de Fahrenheit para Kelvin. |
-| `KelvinToFahrenheit`          | 1. <span style="color:blue">`double`</span> `kelvin`  | Converte a temperatura de Kelvin para Fahrenheit. |
+| `CelsiusToFahrenheit()`         | <span style="color:blue">`double`</span> `celsius` | Converte a temperatura de Celsius para Fahrenheit. |
+| `FahrenheitToCelsius()`         | <span style="color:blue">`double`</span> `fahrenheit` | Converte a temperatura de Fahrenheit para Celsius. |
+| `CelsiusToKelvin()`             | <span style="color:blue">`double`</span> `celsius` | Converte a temperatura de Celsius para Kelvin.   |
+| `KelvinToCelsius()`             | <span style="color:blue">`double`</span> `kelvin`  | Converte a temperatura de Kelvin para Celsius.   |
+| `FahrenheitToKelvin()`          | <span style="color:blue">`double`</span> `fahrenheit` | Converte a temperatura de Fahrenheit para Kelvin. |
+| `KelvinToFahrenheit()`          | <span style="color:blue">`double`</span> `kelvin`  | Converte a temperatura de Kelvin para Fahrenheit. |
