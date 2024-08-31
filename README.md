@@ -58,6 +58,27 @@ Aqui estão os recursos da biblioteca EasyUtils:
 | `CubicMetersToLiters()`               | <span style="color:blue">`double`</span> cubicMeters  | Converte Metros Cúbicos para Litros.           |
 | `CubicMetersToCubicCentimeters()`     | <span style="color:blue">`double`</span> cubicMeters  | Converte Metros Cúbicos para Centímetros Cúbicos. |
 | `CubicCentimetersToCubicMeters()`     | <span style="color:blue">`double`</span> cubicCentimeters | Converte Centímetros Cúbicos para Metros Cúbicos. |
+| `SecondsToMinutes()`             | <span style="color:blue">`double`</span> seconds     | Converte Segundos para Minutos.                |
+| `MinutesToSeconds()`             | <span style="color:blue">`double`</span> minutes     | Converte Minutos para Segundos.                |
+| `MinutesToHours()`               | <span style="color:blue">`double`</span> minutes     | Converte Minutos para Horas.                   |
+| `HoursToMinutes()`               | <span style="color:blue">`double`</span> hours       | Converte Horas para Minutos.                   |
+| `SecondsToHours()`               | <span style="color:blue">`double`</span> seconds     | Converte Segundos para Horas.                  |
+| `HoursToSeconds()`               | <span style="color:blue">`double`</span> hours       | Converte Horas para Segundos.                  |
+| `HoursToDays()`                  | <span style="color:blue">`double`</span> hours       | Converte Horas para Dias.                      |
+| `DaysToHours()`                  | <span style="color:blue">`double`</span> days        | Converte Dias para Horas.                      |
+| `DaysToWeeks()`                  | <span style="color:blue">`double`</span> days        | Converte Dias para Semanas.                    |
+| `WeeksToDays()`                  | <span style="color:blue">`double`</span> weeks       | Converte Semanas para Dias.                    |
+| `DaysToMonths()`                 | <span style="color:blue">`double`</span> days        | Converte Dias para Meses.                      |
+| `MonthsToDays()`                 | <span style="color:blue">`double`</span> months      | Converte Meses para Dias.                      |
+| `WeeksToMonths()`                | <span style="color:blue">`double`</span> weeks       | Converte Semanas para Meses.                   |
+| `MonthsToWeeks()`                | <span style="color:blue">`double`</span> months      | Converte Meses para Semanas.                   |
+| `MonthsToYears()`                | <span style="color:blue">`double`</span> months      | Converte Meses para Anos.                      |
+| `YearsToMonths()`                | <span style="color:blue">`double`</span> years       | Converte Anos para Meses.                      |
+| `WeeksToYears()`                 | <span style="color:blue">`double`</span> weeks       | Converte Semanas para Anos.                    |
+| `YearsToWeeks()`                 | <span style="color:blue">`double`</span> years       | Converte Anos para Semanas.                    |
+| `DaysToYears()`                  | <span style="color:blue">`double`</span> days        | Converte Dias para Anos.                       |
+| `YearsToDays()`                  | <span style="color:blue">`double`</span> years       | Converte Anos para Dias.                       |
+
 
 
 ⚠️ Lembre-se, durante o desenvolvimento do seu software, de seguir a ordem dos parâmetros especificada pela biblioteca para garantir o funcionamento adequado.
