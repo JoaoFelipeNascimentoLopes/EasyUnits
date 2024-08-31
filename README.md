@@ -50,6 +50,15 @@ Aqui estão os recursos da biblioteca EasyUtils:
 | `OuncesToKilograms()`         | <span style="color:blue">`double`</span> ounces     | Converte o peso de onças para quilogramas.             |
 | `TonsToKilograms()`           | <span style="color:blue">`double`</span> tons       | Converte o peso de toneladas para quilogramas.         |
 | `KilogramsToTons()`           | <span style="color:blue">`double`</span> kilograms  | Converte o peso de quilogramas para toneladas.         |
+| `LitersToMilliliters()`               | <span style="color:blue">`double`</span> liters       | Converte Litros para Mililitros.               |
+| `MillilitersToLiters()`               | <span style="color:blue">`double`</span> milliliters  | Converte Mililitros para Litros.               |
+| `LitersToCubicCentimeters()`          | <span style="color:blue">`double`</span> liters       | Converte Litros para Centímetros Cúbicos.      |
+| `CubicCentimtersToLiters()`           | <span style="color:blue">`double`</span> cubicCentimetrs | Converte Centímetros Cúbicos para Litros.   |
+| `LitersToCubicMeters()`               | <span style="color:blue">`double`</span> liters       | Converte Litros para Metros Cúbicos.           |
+| `CubicMetersToLiters()`               | <span style="color:blue">`double`</span> cubicMeters  | Converte Metros Cúbicos para Litros.           |
+| `CubicMetersToCubicCentimeters()`     | <span style="color:blue">`double`</span> cubicMeters  | Converte Metros Cúbicos para Centímetros Cúbicos. |
+| `CubicCentimetersToCubicMeters()`     | <span style="color:blue">`double`</span> cubicCentimeters | Converte Centímetros Cúbicos para Metros Cúbicos. |
+
 
 ⚠️ Lembre-se, durante o desenvolvimento do seu software, de seguir a ordem dos parâmetros especificada pela biblioteca para garantir o funcionamento adequado.
 
